@@ -1,4 +1,4 @@
-# MatchLab — User Manual
+<img width="1080" height="2424" alt="изображение" src="https://github.com/user-attachments/assets/f0822c61-acff-4e7d-845d-eac8a580f474" /># MatchLab — User Manual
 
 MatchLab helps students find scientific and practical projects, join teams, and build a portfolio of confirmed contributions. Project initiators can publish ideas and recruit people for specific roles.
 
@@ -34,14 +34,6 @@ You need an Android device compatible with the selected release, an internet con
 5. If Android requests permission, allow the browser or file manager to install this application using the setting shown by the system.
 6. Select **Install**, wait for installation to finish, and open **MatchLab**.
 
-> **Screenshot placeholder — Downloading the APK**
->
-> Show the official GitHub release page with the release version, release notes, and the APK file under **Assets**. Use the actual filename of the published build.
-
-> **Screenshot placeholder — Android installation**
->
-> Show the Android package installer with the MatchLab application name and the **Install** action. Do not include personal notifications or account information.
-
 ### Update an existing installation
 
 Download the newer APK from the same official release page and install it over the existing application. Follow any update instructions in the release notes. Do not uninstall the existing app as a routine update step, because uninstalling can remove local application data.
@@ -61,9 +53,7 @@ If Android reports a signature conflict or refuses the update, check that you do
 
 Registration requires an email domain accepted by the platform. Confirming ownership of your email activates your registration; it does not verify your entire profile or portfolio.
 
-> **Screenshot placeholder — Registration and email confirmation**
->
-> Show the registration form, its required fields, and the screen asking the user to confirm their email. Use a demonstration address and hide passwords and confirmation tokens.
+<img width="1080" height="2424" alt="изображение" src="https://github.com/user-attachments/assets/9076864d-9cce-489c-9aa0-bd4ab3731031" />
 
 ### Sign in
 
@@ -79,9 +69,8 @@ Enter your registered email address and password. If your session expires, sign 
 
 Complete the required profile fields before publishing a project, applying to a role, or accepting an invitation. Verification of portfolio items is optional for these actions.
 
-> **Screenshot placeholder — Profile and profile editor**
->
-> Show the profile overview and editable skills, interests, availability, education, and portfolio fields. Display verification states on individual evidence items rather than an overall verified-profile badge.
+<img width="1080" height="2424" alt="изображение" src="https://github.com/user-attachments/assets/b24e2273-62cf-4121-a66c-bd81964bc071" />
+<img width="1080" height="2424" alt="изображение" src="https://github.com/user-attachments/assets/996845d4-0689-4d04-86bc-0114c60e32b3" />
 
 ## Find projects and people
 
@@ -93,9 +82,10 @@ Complete the required profile fields before publishing a project, applying to a 
 
 If the search returns no results, remove restrictive filters or try a broader query. Recommendations help you discover opportunities; they do not submit applications or join teams for you.
 
-> **Screenshot placeholder — Discovery, search and project details**
->
-> Show the project/people switch, search field, filter controls, and a project page with required skills, workload, dates, and available positions.
+<img width="1080" height="2424" alt="изображение" src="https://github.com/user-attachments/assets/3908498c-709a-4c2c-8331-62eb5a072230" />
+<img width="1080" height="2424" alt="изображение" src="https://github.com/user-attachments/assets/c43afb46-6283-4478-81b0-b9d7b1f96dc1" />
+<img width="1080" height="2424" alt="изображение" src="https://github.com/user-attachments/assets/ffe0bb00-1e3c-4082-b82e-62037cd66dc7" />
+
 
 ## Apply to a project or accept an invitation
 
@@ -118,9 +108,7 @@ Submitting an application does not create membership. You join the team when the
 
 If the role has already filled, refresh the project and review other openings. Avoid resubmitting the same action before checking its current status.
 
-> **Screenshot placeholder — Applications and invitations**
->
-> Show an application with its current status and an invitation with accept/decline actions. Include a confirmed team membership example using demonstration accounts.
+<img width="1080" height="2424" alt="изображение" src="https://github.com/user-attachments/assets/f0bfc60d-6e7f-4c3c-ba04-1f0f53b9e5fd" />
 
 ## Create a project and recruit a team
 
@@ -142,19 +130,13 @@ If the role has already filled, refresh the project and review other openings. A
 
 You can revoke a pending invitation. Where available, unpublishing stops new recruitment while preserving the project's existing history.
 
-> **Screenshot placeholder — Project creation and recruitment**
->
-> Show the creation form, a role with skills and capacity, and the initiator's management screen with applications, candidate decisions, and current team members.
+<img width="1080" height="2424" alt="изображение" src="https://github.com/user-attachments/assets/f0771473-2d09-49d0-b815-0aa0fdfc324c" />
 
 ## Communicate with other participants
 
 Open a participant's profile and use the chat action, or select an existing conversation in **Chats**. Review the recipient before sending a message.
 
 **Release availability:** the mobile README currently describes chats as local-only, while the backend documents a Chat service. Check the installed release notes before relying on message delivery. A local-only conversation does not send messages to the other participant.
-
-> **Screenshot placeholder — Chats and conversation**
->
-> Show the chat list, conversation header, message history, and composer from the documented release. If messaging is local-only, make that limitation visible in the example.
 
 ## Complete a project and confirm your contribution
 
