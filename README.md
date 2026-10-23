@@ -1,5 +1,3 @@
-<img width="1080" height="2424" alt="изображение" src="https://github.com/user-attachments/assets/f0822c61-acff-4e7d-845d-eac8a580f474" /># MatchLab — User Manual
-
 MatchLab helps students find scientific and practical projects, join teams, and build a portfolio of confirmed contributions. Project initiators can publish ideas and recruit people for specific roles.
 
 This guide covers the Android application. The initial interface is in Russian; action names below describe their purpose and may differ slightly from the labels in your installed release.
