@@ -51,7 +51,7 @@ If Android reports a signature conflict or refuses the update, check that you do
 
 Registration requires an email domain accepted by the platform. Confirming ownership of your email activates your registration; it does not verify your entire profile or portfolio.
 
-<img width="1080" height="2424" alt="изображение" src="https://github.com/user-attachments/assets/9076864d-9cce-489c-9aa0-bd4ab3731031" />
+<img width="108" height="242" alt="изображение" src="https://github.com/user-attachments/assets/9076864d-9cce-489c-9aa0-bd4ab3731031" />
 
 ### Sign in
 
