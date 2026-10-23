@@ -129,6 +129,9 @@ If the role has already filled, refresh the project and review other openings. A
 You can revoke a pending invitation. Where available, unpublishing stops new recruitment while preserving the project's existing history.
 
 <img width="216" height="485" alt="изображение" src="https://github.com/user-attachments/assets/f0771473-2d09-49d0-b815-0aa0fdfc324c" />
+<img width="216" height="485" alt="изображение" src="https://github.com/user-attachments/assets/d263270f-1290-4802-899b-53dc2211e4cc" />
+<img width="216" height="485" alt="изображение" src="https://github.com/user-attachments/assets/18b55494-2783-4a78-843b-7567af395474" />
+<img width="216" height="485" alt="изображение" src="https://github.com/user-attachments/assets/81e2a88a-7122-45d8-91f3-2e0a1e83140b" />
 
 ## Communicate with other participants
 
@@ -154,9 +157,8 @@ Open a participant's profile and use the chat action, or select an existing conv
 
 Project completion and individual contribution confirmation are separate actions. Cancelled projects and unconfirmed or disputed work do not become verified completed work automatically.
 
-> **Screenshot placeholder — Completion and contribution confirmation**
->
-> Show the initiator's completion action, overall result, and the participant's confirm/dispute controls. Include the resulting portfolio entry and its status.
+<img width="216" height="485" alt="изображение" src="https://github.com/user-attachments/assets/a43495ef-d3b1-497e-98a1-bc3f2fc02232" />
+<img width="216" height="485" alt="изображение" src="https://github.com/user-attachments/assets/5b20d29c-b5a2-43f5-a50a-97c72c638dcb" />
 
 ## Leave a review
 
@@ -167,10 +169,6 @@ Project completion and individual contribution confirmation are separate actions
 
 You cannot review yourself or submit multiple reviews of the same person for the same project. If the action is unavailable, check the project and contribution confirmation states.
 
-> **Screenshot placeholder — Review form and received reviews**
->
-> Show the project context, rating selector, comment field, and a submitted review. Use demonstration content rather than private feedback.
-
 ## Verify portfolio and education items
 
 1. Open the relevant item in your profile.
@@ -180,9 +178,6 @@ You cannot review yourself or submit multiple reviews of the same person for the
 
 Verification applies to the selected item. Editing a verified claim or replacing its evidence requires a new review. You can collaborate without verified portfolio items if your account is active, unrestricted, and has the required profile information.
 
-> **Screenshot placeholder — Item verification**
->
-> Show one education or portfolio item, its supporting evidence controls, current status, and a request for additional information with a resubmission action.
 
 ## Privacy, blocking and reports
 
@@ -197,10 +192,6 @@ Open the account settings and review the available visibility options. Only publ
 - Keep the confirmation or case reference after submission. Reporting and blocking are separate actions.
 
 If you leave a project, review the confirmation dialog before proceeding. Leaving preserves participation history but does not confirm completed work.
-
-> **Screenshot placeholder — Settings, blocking and reporting**
->
-> Show privacy settings, the blocked-users list, and a report form with reason and description fields. Hide private correspondence and raw evidence.
 
 ## Troubleshooting
 
