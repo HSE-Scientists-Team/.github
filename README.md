@@ -51,7 +51,7 @@ If Android reports a signature conflict or refuses the update, check that you do
 
 Registration requires an email domain accepted by the platform. Confirming ownership of your email activates your registration; it does not verify your entire profile or portfolio.
 
-<img width="108" height="242" alt="изображение" src="https://github.com/user-attachments/assets/9076864d-9cce-489c-9aa0-bd4ab3731031" />
+<img width="216" height="485" alt="изображение" src="https://github.com/user-attachments/assets/9076864d-9cce-489c-9aa0-bd4ab3731031" />
 
 ### Sign in
 
@@ -67,8 +67,8 @@ Enter your registered email address and password. If your session expires, sign 
 
 Complete the required profile fields before publishing a project, applying to a role, or accepting an invitation. Verification of portfolio items is optional for these actions.
 
-<img width="1080" height="2424" alt="изображение" src="https://github.com/user-attachments/assets/b24e2273-62cf-4121-a66c-bd81964bc071" />
-<img width="1080" height="2424" alt="изображение" src="https://github.com/user-attachments/assets/996845d4-0689-4d04-86bc-0114c60e32b3" />
+<img width="216" height="485" alt="изображение" src="https://github.com/user-attachments/assets/b24e2273-62cf-4121-a66c-bd81964bc071" />
+<img width="216" height="485" alt="изображение" src="https://github.com/user-attachments/assets/996845d4-0689-4d04-86bc-0114c60e32b3" />
 
 ## Find projects and people
 
@@ -80,9 +80,9 @@ Complete the required profile fields before publishing a project, applying to a 
 
 If the search returns no results, remove restrictive filters or try a broader query. Recommendations help you discover opportunities; they do not submit applications or join teams for you.
 
-<img width="1080" height="2424" alt="изображение" src="https://github.com/user-attachments/assets/3908498c-709a-4c2c-8331-62eb5a072230" />
-<img width="1080" height="2424" alt="изображение" src="https://github.com/user-attachments/assets/c43afb46-6283-4478-81b0-b9d7b1f96dc1" />
-<img width="1080" height="2424" alt="изображение" src="https://github.com/user-attachments/assets/ffe0bb00-1e3c-4082-b82e-62037cd66dc7" />
+<img width="216" height="485" alt="изображение" src="https://github.com/user-attachments/assets/3908498c-709a-4c2c-8331-62eb5a072230" />
+<img width="216" height="485" alt="изображение" src="https://github.com/user-attachments/assets/c43afb46-6283-4478-81b0-b9d7b1f96dc1" />
+<img width="216" height="485" alt="изображение" src="https://github.com/user-attachments/assets/ffe0bb00-1e3c-4082-b82e-62037cd66dc7" />
 
 
 ## Apply to a project or accept an invitation
@@ -106,7 +106,7 @@ Submitting an application does not create membership. You join the team when the
 
 If the role has already filled, refresh the project and review other openings. Avoid resubmitting the same action before checking its current status.
 
-<img width="1080" height="2424" alt="изображение" src="https://github.com/user-attachments/assets/f0bfc60d-6e7f-4c3c-ba04-1f0f53b9e5fd" />
+<img width="216" height="485" alt="изображение" src="https://github.com/user-attachments/assets/f0bfc60d-6e7f-4c3c-ba04-1f0f53b9e5fd" />
 
 ## Create a project and recruit a team
 
@@ -128,7 +128,7 @@ If the role has already filled, refresh the project and review other openings. A
 
 You can revoke a pending invitation. Where available, unpublishing stops new recruitment while preserving the project's existing history.
 
-<img width="1080" height="2424" alt="изображение" src="https://github.com/user-attachments/assets/f0771473-2d09-49d0-b815-0aa0fdfc324c" />
+<img width="216" height="485" alt="изображение" src="https://github.com/user-attachments/assets/f0771473-2d09-49d0-b815-0aa0fdfc324c" />
 
 ## Communicate with other participants
 
